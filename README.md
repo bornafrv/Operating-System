@@ -51,7 +51,10 @@ Implements a real-time multiplayer game over **TCP sockets**. The server manages
 ---
 
 ## 📌 Course Information
+
 🧾 Operating Systems
+
 🏛️ University of Tehran – Department of Electrical and Computer Engineering
+
 👨‍🏫 Instructor: Dr. Kargahi
 
